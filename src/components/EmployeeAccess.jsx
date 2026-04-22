@@ -203,7 +203,7 @@ function EmployeeAccess() {
 
   return (
     <div className="container">
-      <h2>Employee Handover System</h2>
+      <h2>Asset Handover System</h2>
 
       <textarea
         placeholder="Enter EMP ID / LOG ID / BADGE ID"
